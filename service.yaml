@@ -6,7 +6,7 @@ metadata:
     app: register-app 
 spec:
   selector:
-    app: register-app
+    app: reg-app
 
   ports:
     - port: 8080
