@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: reg-app
-          image: velkaandhan/register-app:1.0.0-20
+          image: velkaandhan/register-app:1.0.0-2
           resources:
             limits:
               memory: "256Mi"
